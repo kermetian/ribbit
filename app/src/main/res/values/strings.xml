@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ribbit</string>
+    <string name="display_target">Bounce!</string>
+    <string name="share_link_title">Share link</string>
+</resources>
